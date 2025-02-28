@@ -34,6 +34,9 @@ In this experiment, we use Wireshark to analyze different types of network traff
   
 <img width="775" alt="Image" src="https://github.com/user-attachments/assets/40c8266f-6a4b-4595-a937-b55425b07da6" />
 
+<img width="746" alt="Image" src="https://github.com/user-attachments/assets/188a26e9-351a-4a8d-8f51-b38fabf95608" />
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
