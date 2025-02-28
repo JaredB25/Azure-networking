@@ -105,6 +105,10 @@ We can now observe that we are now able to recive ICMP traffic on the Ubuntu VM.
 
 Next we will filter SSH traffic using Wireshark. Using the windows VM we will use powershell to create an SSH connection to the Ubuntu machine using the command: ssh labuser2@10.0.0.5. Once this command is executed, Wireshark will display the SSH traffic, allowing us to observe and analyze it.
 
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/34529b31-c625-4de2-8473-1a600c663d51" />
+
+
+
 </p>
 <br />
 
