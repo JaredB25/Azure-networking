@@ -12,13 +12,13 @@ In this experiment, we use Wireshark to analyze different types of network traff
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Various Network Protocols (ICMP, SSH, DNS, DHCP, RDP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Windows 10 (22H2)
+- Ubuntu Server 22.04
 
 <h2>Procedure</h2>
 
