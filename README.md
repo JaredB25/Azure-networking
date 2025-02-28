@@ -99,8 +99,14 @@ After making these observations we will now delete the rule from the network sec
 <img width="587" alt="Image" src="https://github.com/user-attachments/assets/6fabddbc-cecb-4dce-9f02-c8faae03ac03" />
 
 
+We can now observe that we are now able to recive ICMP traffic on the Ubuntu VM. By perfroming those excercises we now have a basic understanding of how to navigate Wireshark.
 </p>
 <br />
 
-Next we will observe 
+Next we will filter SSH traffic using Wireshark. Using the windows VM we will use powershell to create an SSH connection to the Ubuntu machine using the command: ssh labuser2@10.0.0.5. Once this command is executed, Wireshark will display the SSH traffic, allowing us to observe and analyze it.
+
+</p>
+<br />
+
+You
 
