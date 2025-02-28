@@ -96,7 +96,8 @@ With this rule in place we will check Wireshark to observe that the pings no lon
 <br />
 After making these observations we will now delete the rule from the network security group. 
 
-img
+<img width="587" alt="Image" src="https://github.com/user-attachments/assets/6fabddbc-cecb-4dce-9f02-c8faae03ac03" />
+
 
 </p>
 <br />
