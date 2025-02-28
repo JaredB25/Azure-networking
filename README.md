@@ -82,6 +82,6 @@ We can view each packet sent while pinging the machine in Wireshark where it it 
 </p>
 <br />
 
-Next we will use ping - t command to initiate a perpetual ping from our Windows 10 VM to our Ubuntu VM.
+Next we will use create a new rule to deny ICMP requests on the Ubuntu VMs Network Security Group 
 
 
