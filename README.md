@@ -84,4 +84,10 @@ We can view each packet sent while pinging the machine in Wireshark where it it 
 
 Next we will use create a new rule to deny ICMP requests on the Ubuntu VMs Network Security Group 
 
+<img width="296" alt="Image" src="https://github.com/user-attachments/assets/cfcd15a1-e07a-42e1-9064-be112b26aa34" />
+</p>
+<br />
+
+With this rule in place we will check Wireshark to observe that the pings no longer receive replies and in PowerShell, we see a message saying "Request Timed Out." 
+
 
