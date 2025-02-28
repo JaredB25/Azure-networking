@@ -47,7 +47,7 @@ Next we will use the Remote desktop windows appliction to log into  our Windows 
 
 <p>
   
-insert img
+![Image](https://github.com/user-attachments/assets/95292757-87d2-4b27-a17e-e135dd8563d2)
 
 </p>
 <p>
