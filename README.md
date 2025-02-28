@@ -30,6 +30,7 @@ In this experiment, we use Wireshark to analyze different types of network traff
 <h2>Actions and Observations</h2>
 
 <p>
+  First Create and properly configure the Virtual Machines
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
