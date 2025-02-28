@@ -90,4 +90,9 @@ Next we will use create a new rule to deny ICMP requests on the Ubuntu VMs Netwo
 
 With this rule in place we will check Wireshark to observe that the pings no longer receive replies and in PowerShell, we see a message saying "Request Timed Out." 
 
+<img width="611" alt="Image" src="https://github.com/user-attachments/assets/ecc6d407-63a8-4984-8f22-7753b639c382" />
+
+</p>
+<br />
+
 
