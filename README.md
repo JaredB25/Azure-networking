@@ -30,7 +30,7 @@ In this experiment, we use Wireshark to analyze different types of network traff
 <h2>Actions and Observations</h2>
 
 <p>
-  First Create and properly configure the Virtual Machines
+  First we create and properly configure the Virtual Machines
   
 <img width="775" alt="Image" src="https://github.com/user-attachments/assets/40c8266f-6a4b-4595-a937-b55425b07da6" />
 
@@ -39,7 +39,7 @@ In this experiment, we use Wireshark to analyze different types of network traff
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The two virtual machines were created in the in the Azure portal: two virtual CPUs apiece, one running a Linux image and the other running a Windows 10 Pro image.  During setup, make sure both virtual machines are connected to the same virtual network.  
 </p>
 <br />
 
