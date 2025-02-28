@@ -75,7 +75,13 @@ Starting of with ICMP, open the application and filter for ICMP traffic in the s
 As we can see in the image above no packets are being captured in wireshark lets change that by utilizing the ping command to send ICMP traffic to the IP address of the Linux machine.
   </p>
 <br />
-  
-  , quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+  <img width="485" alt="Image" src="https://github.com/user-attachments/assets/f699e2a7-d897-4aea-85ef-3d603baa79a0" />
+
+We can view each packet sent while pinging the machine in Wireshark where it it displays the ICMP traffic for our analysis.
 </p>
 <br />
+
+Next we will use ping - t command to initiate a perpetual ping from our Windows 10 VM to our Ubuntu VM.
+
+
