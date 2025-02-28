@@ -58,8 +58,13 @@ Using the public IP address of the machine along with the  credientials we confi
 Once we are on the windows VM naviagte to https://www.wireshark.org to download and install Wireshark.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Image](https://github.com/user-attachments/assets/7e4c4ef2-919a-46cf-bc46-f8582d05232a)
+  
 </p>
+Once we have it installed, we can launch the application and begin observing network protocol traffic.
+
+Starting of with ICMP, open the application and filter for ICMP traffic in the search bar. ICMP is used by network devices to send error messages and check connectivity.
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
