@@ -63,9 +63,19 @@ Once we are on the windows VM naviagte to https://www.wireshark.org to download 
   
 </p>
 Once we have it installed, we can launch the application and begin observing network protocol traffic.
+</p>
+<br />
 
 Starting of with ICMP, open the application and filter for ICMP traffic in the search bar. ICMP is used by network devices to send error messages and check connectivity.
+
+
+<img width="491" alt="Image" src="https://github.com/user-attachments/assets/d169b367-3ace-4b23-8c43-d06cac9249c5" />
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As we can see in the image above no packets are being captured in wireshark lets change that by utilizing the ping command to send ICMP traffic to the IP address of the Linux machine.
+  </p>
+<br />
+  
+  , quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
