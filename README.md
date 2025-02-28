@@ -32,7 +32,8 @@ In this experiment, we use Wireshark to analyze different types of network traff
 <p>
   First Create and properly configure the Virtual Machines
   
-![Image](https://github.com/user-attachments/assets/91fd6cf5-0264-44b5-b0b1-a9b4e9718673)
+<img width="775" alt="Image" src="https://github.com/user-attachments/assets/40c8266f-6a4b-4595-a937-b55425b07da6" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
