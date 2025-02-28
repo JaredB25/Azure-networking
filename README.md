@@ -20,12 +20,12 @@ In this experiment, we use Wireshark to analyze different types of network traff
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Procedure</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+* Using Azure create two virtual machines one running the Windows OS and the other running the Ubuntu linux distribution.
+* Install the Wireshark application on the windows virtual machine. 
+* Generate various types of newtwork traffic icluding : ICMP, SSH, DNS, DHCP and RDP. Observe the network traffic by capturing packets with Wireshark.
+* Configure a Network Security Group using Azure and observe the effects on network traffic with Wireshark.
 
 <h2>Actions and Observations</h2>
 
