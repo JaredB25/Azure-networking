@@ -132,6 +132,7 @@ Next, we'll filter DHCP traffic in Wireshark. Start by setting Wireshark to disp
 
 Next, we'll filter RDP traffic in Wireshark. Start by setting Wireshark to display only RDP traffic by typing "tcp.port == 3389" in the searchbar. We will observe constant traffic dislayed on wireshark because we are currently utilizing the Remote destop protocol in order to ontrol the windows VM.
 
-img
+<img width="590" alt="Image" src="https://github.com/user-attachments/assets/8665195c-ec1f-4850-8b9c-7d906f6e5090" />
+
 </p>
 <br />
