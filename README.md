@@ -124,7 +124,8 @@ Next, we'll filter DNS traffic in Wireshark. Start by setting Wireshark to displ
 
 Next, we'll filter DHCP traffic in Wireshark. Start by setting Wireshark to display only DHCP traffic by typing DHCP in the searchbar. In powershell we will enter the "ipconfig /renew" command to generate DHCP traffic.
 
-IMG
+<img width="607" alt="Image" src="https://github.com/user-attachments/assets/74936557-d459-4b73-a545-de4789edd25d" />
+
 
 </p>
 <br />
