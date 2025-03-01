@@ -116,7 +116,8 @@ Once We have made our observations we can enter the exit command to terminate th
 
 Next, we'll filter DNS traffic in Wireshark. Start by setting Wireshark to display only DNS traffic by typing DNS in the searchbar. To generate DNS activity, we will utilize the nslookup command which queries the DNS server for a domains IP address in this case we will type in powershell "nslookup Netflix.com".
 
-img
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/0d258412-ab3c-428a-81f1-a2aaf0cabb96" />
+
 
 </p>
 <br />
