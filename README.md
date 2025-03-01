@@ -108,9 +108,28 @@ Next we will filter SSH traffic using Wireshark. Using the windows VM we will us
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/34529b31-c625-4de2-8473-1a600c663d51" />
 
 
+<img width="484" alt="Image" src="https://github.com/user-attachments/assets/95b0f2d3-7429-4ac6-a31e-80ffd13bdebd" />
+Once We have made our observations we can enter the exit command to terminate the connection. 
 
 </p>
 <br />
 
-You
+Next, we'll filter DNS traffic in Wireshark. Start by setting Wireshark to display only DNS traffic by typing DNS in the searchbar. To generate DNS activity, we will utilize the nslookup command which queries the DNS server for domains IP address in this case we will type in powershell "nslookup Netflix.com".
 
+img
+
+</p>
+<br />
+
+Next, we'll filter DHCP traffic in Wireshark. Start by setting Wireshark to display only DHCP traffic by typing DHCP in the searchbar. In powershell we will enter the "ipconfig /renew" command to generate DHCP traffic.
+
+IMG
+
+</p>
+<br />
+
+Next, we'll filter RDP traffic in Wireshark. Start by setting Wireshark to display only RDP traffic by typing "tcp.port == 3389" in the searchbar. We will observe constant traffic dislayed on wireshark because we are currently utilizing the Remote destop protocol in order to ontrol the windows VM.
+
+img
+</p>
+<br />
